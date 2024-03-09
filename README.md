@@ -40,3 +40,8 @@ Through this analysis, we gained valuable insights into the Boston Housing datas
 ## Project Link 
 
 You can see my project [here.](https://github.com/SantanuDutta1/Boston-Housing-data-Analysis-Python/blob/main/Boston_Housing_data_EDA.ipynb)
+## Authors
+
+- [@Santanudutta1](https://github.com/SantanuDutta1)
+
+Santanu Dutta - Data Analyst - Santanu Data - All work
