@@ -1,8 +1,10 @@
-<h1 align="center">  <img src="Boston photos/download.png" width="60" height="50"/> </a>   Boston Housing Analysis Using Pandas And Numpy <a  target="_blank"> <img src="Boston photos/download (1).png"  width="60" height="50"/> </a> </h1>
+<h1 align="center">  <img src="Boston photos/download.png" width="60" height="50"/> </a> Boston Housing Analysis Using Pandas And Numpy <a  target="_blank"> <img src="Boston photos/download (1).png"  width="60" height="50"/> </a> </h1>
 
 ## Overview
 Pandas and NumPy are powerful Python libraries for data analysis and manipulation. In this project, we will explore various functionalities of these libraries using real-life data from the Boston Housing dataset. This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston, Massachusetts.
-
+<p align="center">
+  <img width="600" height="350" src="IMDb photos/images.jpeg">
+</p>
 ## Dataset
 The dataset can be found [here](https://www.kaggle.com/datasets/vikrishnan/boston-house-prices). It includes the following features:
 - CRIM: Per capita crime rate by town
